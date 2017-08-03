@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Twitter@DS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">jbPeyP3qu4QKfqukx90a75Tcm</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">5kJOs58HXyD7l8N0VSDWhXiLI8jc6LBE1BWHOusk4so9ozGzhp
+</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>

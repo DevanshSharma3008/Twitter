@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/ss1"
+    >
+
+
+   <Button
+       android:layout_width="150dp"
+       android:layout_height="wrap_content"
+       android:id="@+id/searchtweets"
+       android:text="Search Tweets"
+       android:layout_marginTop="55dp"
+       android:background="@drawable/mybutton"
+       android:layout_gravity="center"
+       android:textColor="@color/tw__blue_default"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/search"
+        android:text="Search Users"
+        android:layout_gravity="center"
+        android:background="@drawable/mybutton"
+        android:textColor="@color/tw__blue_default"
+        android:layout_marginTop="85dp"
+        />
+
+
+
+</LinearLayout>

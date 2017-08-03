@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/profile"
+            android:icon="@mipmap/ic_person_black_48dp"
+            android:title="Profile" />
+        <item
+            android:id="@+id/mytweets"
+            android:icon="@mipmap/ic_view_headline_black_48dp"
+            android:title="My Tweets" />
+        <item
+            android:id="@+id/settings"
+            android:icon="@mipmap/ic_settings_black_48dp"
+            android:title="Settings and privacy" />
+        <item
+            android:id="@+id/help"
+            android:icon="@mipmap/ic_help_black_48dp"
+            android:title="Help Center" />
+
+        <item
+            android:id="@+id/logout"
+            android:title="Logout"
+            android:icon="@mipmap/ic_mood_bad_black_48dp">
+
+        </item>
+
+    </group>
+</menu>
